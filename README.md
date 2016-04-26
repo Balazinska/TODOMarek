@@ -1,5 +1,5 @@
 # TODOMarek is a simple application to remember the work to be done. 
-Work to be done, or notes.
+
 Notes are grouped in the "Category" -> first column. Categories are created using button: "Add category". Each category is written in a different color.
 10 colors are prepared. Lines in the category are added by the button "Add". 
 The second column: Each line can be marked with one of the characters displayed on the table. Click on the sign (turns yellow), click on the line to be marked, and the sign will appear in the second column. Sign on the table cease to be a yellow. Click on the mark in the second column erases the character.
