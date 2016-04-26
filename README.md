@@ -1,4 +1,4 @@
-# TODOMarek is a simple application to remember the work to be done, or notes. 
+# TODOMarek is a simple application to remember the work to be done, or to take the notes. 
 
 Notes are grouped in the "Category" -> first column. Categories are created using button: "Add category". Each category is written in a different color.
 10 colors are prepared. Lines in the category are added by the button "Add". 
